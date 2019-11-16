@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">百度云相册</string>
+    <string name="image_selector_select_none">No image selected</string>
+</resources>
